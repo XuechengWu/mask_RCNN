@@ -1,1 +1,3 @@
-## Hallo Mask R-CNN
+# Mask R-CNN
+## 1. Bilder Sammlung in dataset und zip dataset
+## 2. annotations.json von https://www.makesense.ai/ herstellen
