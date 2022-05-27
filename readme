@@ -1,19 +1,4 @@
 #  Mask R-CNN
 * 1. Bilder Sammlung in dataset und zip dataset
 * 2. annotations.json von https://www.makesense.ai/ herstellen
-> # clone repository
-git clone https://github.com/SkalskiP/make-sense.git
-
-# navigate to main dir
-cd make-sense
-
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:3000
-npm start
-
-To ensure proper functionality of the application locally, an npm 6.x.x and node.js v12.x.x versions are required. More information about this problem is available in the #16.
-
-
 * 3. 有要上传的文件用dropbox直链
