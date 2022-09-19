@@ -6,3 +6,8 @@
 5. mask_RCNN -> logs -> 最新权重文件 -> 下载
 6. 上传权重文件至DropBox， 并获取直链
 7. 检测时注意改直链
+******************************
+# PixelLib
+1. labelme
+2. dataset -> train : test = 3:1
+3. pixellib custom train
